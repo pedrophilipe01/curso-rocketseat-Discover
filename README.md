@@ -12,7 +12,7 @@ Progama exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologi
 </p>
 
 <p align="center">
-  <img src="./assets/Cover.png" alt="projeto Devlinks">
+  <img src="./assets/capa.png" alt="projeto Devlinks">
 </p>
 
 ## 🚀 Tecnologias
