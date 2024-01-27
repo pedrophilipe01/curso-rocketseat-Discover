@@ -11,8 +11,8 @@ Progama exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologi
   <a href="#memo-licença">Licença</a>
 </p>
 
-  <img src="./assets/capa.png" alt="projeto Devlinks">
-
+<p align= center>
+  <img src="capa.jpg">
 
 ## 🚀 Tecnologias
 
@@ -38,3 +38,6 @@ Esse projeto está sob a licença MIT.
 ---
 
 Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+
+
+[def]: "assets/capa.jpg"
