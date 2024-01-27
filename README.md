@@ -11,9 +11,8 @@ Progama exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologi
   <a href="#memo-licença">Licença</a>
 </p>
 
-<p align="center"> 
-  <img src="./assets/capa.png" alt="projeto Devlinks" width="250px"> 
-</p>
+  <img src="./assets/capa.png" alt="projeto Devlinks">
+
 
 ## 🚀 Tecnologias
 
